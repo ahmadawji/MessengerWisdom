@@ -16,7 +16,7 @@ MessengerWisdom is an application dedicated to spreading the wisdom and teaching
 
 ## Usage
 
-1. Open the MessengerWisdom app on your device.
+1. Open the MessengerWisdom app on your device by clicking on the app's link https://ahmadawji.github.io/MessengerWisdom/
 2. Receive a daily Hadith on the main screen.
 3. Share the Hadith with others to inspire and spread the teachings.
 

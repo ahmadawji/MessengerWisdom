@@ -1,6 +1,8 @@
 # MessengerWisdom
 
 MessengerWisdom is an application dedicated to spreading the wisdom and teachings of the Prophet Muhammad (PBUH) through daily random Hadiths. This app serves as a source of inspiration and knowledge, providing users with valuable insights from the life and sayings of the Prophet.
+![image](https://github.com/ahmadawji/MessengerWisdom/assets/76648133/0fe270ac-ca5a-454f-a956-7a371881467c)
+![image](https://github.com/ahmadawji/MessengerWisdom/assets/76648133/f4c2e806-8f55-431e-9376-29eabc0113e2)
 
 ## Features
 

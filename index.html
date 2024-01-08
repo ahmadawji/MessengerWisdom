@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Messenger's Wisdom</title>
     <link rel="stylesheet" href="./style.css" />
+    <script type="module" src="./hadiths/generateHadith.js" defer></script>
   </head>
   <body>
     <div class="cover">
@@ -15,28 +16,10 @@
 
         <label for="page-2" class="book__page book__page--4">
           <div class="page__content">
-            <h1 class="page__content-title">I</h1>
+            <h1 class="page__content-title"></h1>
             <div class="page__content-blockquote">
-              <p class="page__content-blockquote-text">
-                HARI SELDON — . . . born in the 11,988th year of the Galactic
-                Era; died 12,069. The dates are more commonly given in terms of
-                the current Foundational Era as -79 to the year 1 F.E. Born to
-                middle-class parents on Helicon, Arcturus sector (where his
-                father, in a legend of doubtful authenticity, was a tobacco
-                grower in the hydroponic plants of the planet), he early showed
-                amazing ability in mathematics. Anecdotes concerning his ability
-                are innumerable, and some are contradictory. At the age of two,
-                he is said to have. . .
-              </p>
-
-              <span class="page__content-blockquote-reference"
-                >Encyclopedia Galactica*</span
-              >
+              <p id="page__content-hadith-text-arabic"></p>
             </div>
-            <div class="page__content-text">
-              <p>Hello world.</p>
-            </div>
-            <div class="page__number">3</div>
           </div>
         </label>
 
@@ -59,16 +42,10 @@
           </div>
           <div class="book__page-back">
             <div class="page__content">
-              <h1 class="page__content-title">Contents</h1>
-              <table class="page__content-table">
-                <tr>
-                  <td align="left">Part I</td>
-                  <td align="left">The Psycohistorians</td>
-                  <td align="right">3</td>
-                </tr>
-              </table>
-
-              <div class="page__number">2</div>
+              <h1 class="page__content-title"></h1>
+              <div class="page__content-blockquote">
+                <p id="page__content-hadith-text-english"></p>
+              </div>
             </div>
           </div>
         </label>
